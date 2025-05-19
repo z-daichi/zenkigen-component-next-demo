@@ -9,6 +9,10 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@zenkigen-inc/component-config": "^1.14.4",
+    "@zenkigen-inc/component-icons": "^1.14.4",
+    "@zenkigen-inc/component-theme": "^1.14.4",
+    "@zenkigen-inc/component-ui": "^1.14.4",
     "next": "15.3.2",
     "react": "^19.0.0",
     "react-dom": "^19.0.0"
